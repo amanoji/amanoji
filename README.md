@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently building a documentation site for CSpell by Street Side Software
 
-![pnpm](https://github.com/deviconsicons/pnpm/pnpm-original-wordmark.svg)
+![pnpm](https://github.com/devicons/icons/pnpm/pnpm-original-wordmark.svg)
 <!--
 **amanoji/amanoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
